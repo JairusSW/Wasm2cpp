@@ -1,0 +1,28 @@
+{
+  "name": "wasm2cpp",
+  "version": "1.0.0",
+  "description": "WebAssembly to C++ Compiler",
+  "main": "index.js",
+  "bin": {
+    "wasm2cpp": "./wasm2c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairusSW/wasm2cpp.git"
+  },
+  "keywords": [
+    "WebAssembly",
+    "wasm",
+    "C",
+    "C++",
+    "cpp",
+    "compile",
+    "transpile"
+  ],
+  "author": "JairusSW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JairusSW/wasm2cpp/issues"
+  },
+  "homepage": "https://github.com/JairusSW/wasm2cpp#readme"
+}
